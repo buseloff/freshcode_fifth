@@ -30,15 +30,15 @@ body {
  }
 
 .photo {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
  }
 
 .photo img {
     width: inherit;
     height: inherit;
     position: absolute;
-    top: 300px;
+    top: 350px;
     margin-bottom: 20px;
     border-radius: 50%;
   }
